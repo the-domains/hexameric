@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hexameric]]></title>
+        <description><![CDATA[Hexameric]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Dec 2015 19:13:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What is the future of web analytics when so much of the traffic that goes to sites is fake?</p>]]></description>
+            <link>undefined9c504e95-c49d-4142-a709-d9087663a5ba/index.html</link>
+            <guid isPermaLink="false">9c504e95-c49d-4142-a709-d9087663a5ba</guid>
+            <pubDate>Thu, 31 Dec 2015 19:13:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
