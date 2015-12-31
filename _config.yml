@@ -1,0 +1,28 @@
+name: Hexameric
+favicon: null
+layout_spectrum: 0.812701313989237
+typography_spectrum: 0.44393360847607255
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.048937917686998844
+  lightness: 0.31187624018639326
+  saturation: 0.8943724713753909
+  rhythmicContrast: 0.7894158284179866
+purpose: []
