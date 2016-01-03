@@ -1,28 +1,40 @@
-name: Hexameric
 favicon: null
-layout_spectrum: 0.812701313989237
-typography_spectrum: 0.44393360847607255
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Hexameric
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1756176
+  brandStrength: 0
+  lightness: 0.3528464
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.048937917686998844
-  lightness: 0.31187624018639326
-  saturation: 0.8943724713753909
-  rhythmicContrast: 0.7894158284179866
-purpose: []
+  rhythmicContrast: 0
+typography_spectrum: 0.1874329
+layout_spectrum: 0.7577873
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
